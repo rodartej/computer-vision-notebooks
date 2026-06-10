@@ -1,0 +1,23 @@
+# Core
+numpy>=1.26
+matplotlib>=3.8
+pillow>=10.1
+
+# Visión computacional
+opencv-python>=4.9
+scikit-image>=0.22
+scipy>=1.11
+
+# ML para clasificación
+scikit-learn>=1.4
+# tensorflow>=2.15        # descomentar para CNN
+# torch>=2.1              # alternativa
+
+# Notebooks
+jupyter>=1.0
+jupyterlab>=4.0
+ipykernel>=6.27
+ipywidgets>=8.1
+
+# Utilidades
+tqdm>=4.66
